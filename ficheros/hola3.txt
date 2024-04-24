@@ -1,0 +1,4 @@
+Ahora estoy editando en Visual Studio Code el
+Archivo Hola3.txt 
+A continuacion los equipos involucrados en el proyecto
+Equipo 1
